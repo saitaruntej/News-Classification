@@ -1,0 +1,16 @@
+.venv/
+Lib/
+Scripts/
+Include/
+etc/
+share/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+
+# Model files and datasets (large files)
+model_output/
+new_dataset/
+combined_news.csv
+*.csv
